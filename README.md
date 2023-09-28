@@ -27,4 +27,4 @@ The file that [soup-xbrl](https://github.com/stormasm/soup-xbrl) processes is th
 * [ubnt-20230331_htm.xml](https://www.sec.gov/Archives/edgar/data/1511737/000151173723000037/ubnt-20230331_htm.xml)
 
 and I believe that this file is embedded in the full submission along with all of the other
-files located in the above directory.
+files located in the above directory dated *2023-05-05*.
