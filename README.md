@@ -8,7 +8,7 @@
 
 [Interactive Data Public Test Suite](https://www.sec.gov/structureddata/osdinteractivedatatestsuite)
 
-### How to drill down and get the data for a particular company
+How to drill down and get the data for a particular company
 
 * [ubnt](https://www.sec.gov/Archives/edgar/data/1511737)
 
