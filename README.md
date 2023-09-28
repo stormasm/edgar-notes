@@ -12,6 +12,14 @@ How to drill down and get the data for a particular company
 
 * [ubnt](https://www.sec.gov/Archives/edgar/data/1511737)
 
+The directory we will be looking at today is the one from
+
+* [2023-05-05](https://www.sec.gov/Archives/edgar/data/1511737/000151173723000037)
+
+The file that [soup-xbrl](https://github.com/stormasm/soup-xbrl) processes is the
+
+* [ubnt-20230331_htm.xml](https://www.sec.gov/Archives/edgar/data/1511737/000151173723000037/ubnt-20230331_htm.xml)
+
 The *full submission* of the file for ubnt quarter ending 2023-03-31
 
 * [0001511737-23-000037.txt](https://www.sec.gov/Archives/edgar/data/1511737/000151173723000037/0001511737-23-000037.txt)
